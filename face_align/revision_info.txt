@@ -1,0 +1,7 @@
+arguments: collect.py
+--------------------
+tensorflow version: 1.15.5
+--------------------
+git hash: git rev-parse HEAD: The system cannot find the file specified
+--------------------
+git diff HEAD: The system cannot find the file specified

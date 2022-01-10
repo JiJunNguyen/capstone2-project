@@ -1,0 +1,210 @@
+face_align\HienHo\HienHo_0001.png 397 146 677 460
+face_align\HienHo\HienHo_0002.png 298 49 539 353
+face_align\HienHo\HienHo_0003.png 647 1003 709 1071
+face_align\HienHo\HienHo_0004.png 622 478 1177 1152
+face_align\HienHo\HienHo_0005.png 252 65 438 298
+face_align\HienHo\HienHo_0006.png 175 174 577 719
+face_align\HienHo\HienHo_0007.png 47 10 205 204
+face_align\HienHo\HienHo_0008.png 199 109 434 402
+face_align\HienHo\HienHo_0009.png 52 186 262 432
+face_align\HienHo\HienHo_0010.png 352 83 549 328
+face_align\HienHo\HienHo_0011.png 448 103 639 331
+face_align\HienHo\HienHo_0012.png 304 88 476 285
+face_align\HienHo\HienHo_0013.png 470 64 605 226
+face_align\HienHo\HienHo_0014.png 350 56 492 220
+face_align\HienHo\HienHo_0015.png 441 76 730 439
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_1.png 314 108 498 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_10.png 309 104 497 333
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_100.png 265 90 461 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_101.png 266 92 461 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_102.png 266 92 461 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_103.png 266 91 460 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_104.png 266 91 460 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_105.png 267 92 463 334
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_106.png 267 92 463 334
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_107.png 268 91 465 334
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_108.png 268 91 465 334
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_109.png 272 94 464 335
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_11.png 311 106 498 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_110.png 272 94 464 335
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_111.png 276 97 462 333
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_112.png 276 97 462 333
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_113.png 273 101 466 340
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_114.png 273 101 466 340
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_115.png 269 99 462 337
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_116.png 269 99 462 337
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_117.png 269 102 466 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_118.png 269 102 466 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_119.png 268 100 464 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_12.png 311 106 498 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_120.png 268 100 464 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_121.png 267 100 463 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_122.png 267 100 463 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_123.png 266 102 463 339
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_124.png 266 102 463 339
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_125.png 267 102 462 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_126.png 267 102 462 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_127.png 268 104 463 340
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_128.png 268 104 463 340
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_129.png 269 106 460 339
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_13.png 316 112 495 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_130.png 269 106 460 339
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_131.png 269 105 462 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_132.png 269 105 462 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_133.png 268 101 461 339
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_134.png 268 101 461 339
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_135.png 268 106 461 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_136.png 268 106 461 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_137.png 269 104 459 338
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_138.png 269 104 459 338
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_139.png 273 108 457 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_14.png 316 112 495 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_140.png 273 108 457 341
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_141.png 267 102 462 336
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_142.png 267 102 462 336
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_143.png 269 102 464 340
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_144.png 269 102 464 340
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_145.png 267 105 461 338
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_146.png 267 105 461 338
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_147.png 268 100 459 334
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_148.png 268 100 459 334
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_149.png 277 103 459 333
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_15.png 309 104 495 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_150.png 270 89 451 306
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_16.png 309 104 495 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_17.png 318 114 495 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_18.png 318 114 495 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_19.png 316 111 495 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_2.png 314 108 498 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_20.png 316 111 495 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_21.png 309 104 496 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_22.png 309 104 496 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_23.png 315 106 499 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_24.png 315 106 499 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_25.png 311 105 498 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_26.png 311 105 498 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_27.png 312 105 499 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_28.png 312 105 499 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_29.png 313 105 499 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_3.png 321 110 498 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_30.png 313 105 499 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_31.png 311 106 498 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_32.png 311 106 498 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_33.png 308 104 495 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_34.png 308 104 495 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_35.png 314 110 494 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_36.png 314 110 494 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_37.png 313 105 498 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_38.png 313 105 498 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_39.png 312 104 498 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_4.png 321 110 498 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_40.png 312 104 498 329
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_41.png 310 106 497 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_42.png 310 106 497 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_43.png 312 106 498 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_44.png 312 106 498 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_45.png 310 104 500 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_46.png 310 104 500 331
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_47.png 315 108 498 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_48.png 315 108 498 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_49.png 312 105 499 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_5.png 313 108 496 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_50.png 225 102 394 324
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_51.png 229 104 403 323
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_52.png 229 104 403 323
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_53.png 228 104 403 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_54.png 228 104 403 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_55.png 228 104 403 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_56.png 228 104 403 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_57.png 229 104 404 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_58.png 229 104 404 325
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_59.png 230 102 407 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_6.png 313 108 496 330
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_60.png 226 100 397 324
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_61.png 226 100 397 324
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_62.png 228 102 407 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_63.png 228 102 407 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_64.png 229 102 407 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_65.png 229 102 407 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_66.png 230 103 408 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_67.png 230 103 408 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_68.png 226 103 395 324
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_69.png 226 103 395 324
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_7.png 308 104 496 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_70.png 226 101 396 324
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_71.png 229 100 404 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_72.png 229 100 404 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_73.png 228 100 401 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_74.png 228 100 401 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_75.png 228 102 408 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_76.png 228 102 408 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_77.png 228 102 408 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_78.png 228 102 408 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_79.png 228 102 406 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_8.png 308 104 496 332
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_80.png 228 102 406 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_81.png 228 99 402 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_82.png 229 105 405 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_83.png 229 105 405 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_84.png 227 110 401 321
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_85.png 227 110 401 321
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_86.png 230 102 408 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_87.png 230 102 408 327
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_88.png 229 104 406 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_89.png 229 104 406 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_9.png 309 104 497 333
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_90.png 228 103 405 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_91.png 228 103 405 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_92.png 229 103 408 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_93.png 230 104 406 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_94.png 230 104 406 326
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_95.png 230 103 404 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_96.png 230 103 404 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_97.png 229 103 407 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_98.png 229 103 407 328
+face_align\Nguyen Chi Trung\Nguyen Chi Trung_EEACIU18095_99.png 229 101 407 328
+face_align\SonTung\SonTung_0001.png 290 41 481 288
+face_align\SonTung\SonTung_0002.png 293 63 528 299
+face_align\SonTung\SonTung_0003.png 403 123 704 495
+face_align\SonTung\SonTung_0004.png 206 13 340 177
+face_align\SonTung\SonTung_0005.png 238 61 392 249
+face_align\SonTung\SonTung_0006.png 138 15 227 120
+face_align\SonTung\SonTung_0007.png 198 41 385 253
+face_align\SonTung\SonTung_0008.png 92 103 315 370
+face_align\SonTung\SonTung_0009.png 272 88 558 439
+face_align\SonTung\SonTung_0010.png 251 46 524 386
+face_align\SonTung\SonTung_0011.png 78 16 174 122
+face_align\SonTung\SonTung_0012.png 236 72 477 388
+face_align\SonTung\SonTung_0013.png 521 127 782 457
+face_align\SonTung\SonTung_0014.png 230 17 387 193
+face_align\SonTung\SonTung_0015.png 208 37 348 229
+face_align\TrinhThao\TrinhThao_0001.png 500 133 742 453
+face_align\TrinhThao\TrinhThao_0002.png 442 826 593 992
+face_align\TrinhThao\TrinhThao_0003.png 285 45 398 184
+face_align\TrinhThao\TrinhThao_0004.png 354 73 574 352
+face_align\TrinhThao\TrinhThao_0005.png 313 214 442 370
+face_align\TrinhThao\TrinhThao_0006.png 498 135 676 361
+face_align\TrinhThao\TrinhThao_0007.png 190 87 325 250
+face_align\TrinhThao\TrinhThao_0008.png 311 208 640 575
+face_align\TrinhThao\TrinhThao_0009.png 267 169 611 646
+face_align\TrinhThao\TrinhThao_0010.png 218 93 565 526
+face_align\TrinhThao\TrinhThao_0011.png 287 144 686 685
+face_align\TrinhThao\TrinhThao_0012.png 260 34 397 202
+face_align\TrinhThao\TrinhThao_0013.png 204 42 418 311
+face_align\TrinhThao\TrinhThao_0014.png 327 142 776 736
+face_align\TrinhThao\TrinhThao_0015.png 312 165 572 503
+face_align\TrucAnh\TrucAnh_0001.png 156 75 337 306
+face_align\TrucAnh\TrucAnh_00013.png 178 19 356 236
+face_align\TrucAnh\TrucAnh_0002.png 252 123 438 372
+face_align\TrucAnh\TrucAnh_0003.png 38 8 137 128
+face_align\TrucAnh\TrucAnh_0004.png 240 94 408 317
+face_align\TrucAnh\TrucAnh_0005.png 278 126 579 534
+face_align\TrucAnh\TrucAnh_0006.png 156 75 337 306
+face_align\TrucAnh\TrucAnh_0007.png 150 129 477 567
+face_align\TrucAnh\TrucAnh_0008.png 296 151 675 675
+face_align\TrucAnh\TrucAnh_0009.png 328 79 788 715
+face_align\TrucAnh\TrucAnh_0010.png 154 100 409 441
+face_align\TrucAnh\TrucAnh_0011.png 370 196 612 517
+face_align\TrucAnh\TrucAnh_0012.png 174 40 406 336
+face_align\TrucAnh\TrucAnh_0014.png 163 85 306 264
+face_align\TrucAnh\TrucAnh_0015.png 277 52 391 208
