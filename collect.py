@@ -75,6 +75,23 @@ def collect():
       birth.delete(0, END)
   def Update_data():
       tree.insert('', 'end', values=(name.get(),ID.get(), gender.get(), birth.get()))
+      stu_name = name.get()
+      stu_id = ID.get()
+      stu_gender = gender.get()
+      stu_birth = birth.get()
+      header = ["ID", "Name", "Gender", "Birth"]
+      row = [stu_id, stu_name, stu_gender, stu_birth]
+      if (os.path.isfile("Student_Information" + os.sep + "StudentDetails.csv")):
+          with open("Student_Information" + os.sep + "StudentDetails.csv", 'a+') as csvFile:
+              writer = csv.writer(csvFile)
+              writer.writerow(row)
+          csvFile.close()
+      else:
+          with open("Student_Information" + os.sep + "StudentDetails.csv", 'a+') as csvFile:
+              writer = csv.writer(csvFile)
+              writer.writerow(header)
+              writer.writerow(row)
+          csvFile.close()
 
   title_mana = Label(win, text="Student Management", font=("Helvetica", 30, 'bold'), bg='#FBE4C4', fg="#F85858")
   #---------Student Info Layout----
