@@ -4,7 +4,6 @@ import os
 import os.path
 import csv
 import time
-import wx
 
 def takeImages():
   IMG_PATH = './your_face/'
